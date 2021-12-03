@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "tild3465-6666-4436-b330-626534343336__usersilhouette_.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "tild3465-6666-4436-b330-626534343336__usersilhouette_-1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "tild3465-6666-4436-b330-626534343336__usersilhouette_-2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

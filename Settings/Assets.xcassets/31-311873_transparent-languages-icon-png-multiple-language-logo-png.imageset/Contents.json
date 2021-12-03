@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "31-311873_transparent-languages-icon-png-multiple-language-logo-png.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "31-311873_transparent-languages-icon-png-multiple-language-logo-png-1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "31-311873_transparent-languages-icon-png-multiple-language-logo-png-2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
