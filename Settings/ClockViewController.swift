@@ -146,7 +146,7 @@ public class ClockViewController: UIViewController, FSCalendarDelegate {
             dateFormater.dateFormat = "hh:mm:ss a"
             let currentTime = dateFormater.string(from: date)
             self.clockLabel.text = currentTime
-            dateFormater.dateFormat = "dd.mm.yyyy"
+            dateFormater.dateFormat = "dd.MM.yyyy"
             let currentDate = dateFormater.string(from: date)
             self.dateLabel.text = currentDate
         }
